@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ritapetillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritapetillo" height="30" width="40" /></a>
 <a href="https://fb.com/rita.petillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rita.petillo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgkzyhvtgvnrtfoquwqnyew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucgkzyhvtgvnrtfoquwqnyew" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rita.petillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rita.petillo" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/channel/UCgKzYHVtGVNrTFOqUwqnYew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucgkzyhvtgvnrtfoquwqnyew" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rita_petillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rita.petillo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
