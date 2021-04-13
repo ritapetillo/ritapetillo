@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritapetillo&show_icons=true)
+### 
 
 <h1 align="center">Hi 👋, I'm Rita Petillo!</h1>
 <h3 align="center">A passione full stack developer living in the US</h3>
