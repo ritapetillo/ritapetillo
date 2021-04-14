@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Docker, Gasp**
 
-- 👨‍💻 All of my projects are available at [www.ritapetillo.com](www.ritapetillo.com)
+- 👨‍💻 All of my projects are available at [https://www.ritapetillo.com](www.ritapetillo.com)
 
 - 💬 Ask me about **React, Redux, Node.js, Express, MongoDB, Socket.io**
 
