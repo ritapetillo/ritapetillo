@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an e-learning platform [Alumnor](https://github.com/ritapetillo/alumnor-react)
 
-- 🌱 I’m currently learning **Vue.js, Docker, Gasp**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.ritapetillo.com" target="blank">www.ritapetillo.com</a>
 
