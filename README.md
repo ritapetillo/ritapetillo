@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.ritapetillo.com" target="blank">www.ritapetillo.com</a>
 
-- 💬 Ask me about **React, Redux, Node.js, Express, MongoDB, Socket.io**
+- 💬 Ask me about **React, React Native, Redux, Node.js, Express, MongoDB, Socket.io**
 
 - 📫 How to reach me **hello@ritapetillo.com**
 
